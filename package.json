@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-lodash-magic-import",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "eslint plugin for lodash-magic-import",
   "keywords": [
     "eslint",
@@ -46,7 +46,7 @@
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
     "eslint-plugin-lodash-fp": "^2.1.3",
-    "eslint-plugin-lodash-magic-import": "^0.1.0",
+    "eslint-plugin-lodash-magic-import": "^0.1.1",
     "eslint-plugin-react": "^7.5.1",
     "eslint-plugin-unicorn": "^4.0.3",
     "nyc": "^11.3.0",
