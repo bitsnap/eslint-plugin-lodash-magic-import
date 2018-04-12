@@ -7,7 +7,6 @@
 [![Coverage Status](https://coveralls.io/repos/github/bitsnap/eslint-plugin-lodash-magic-import/badge.svg?branch=master)](https://coveralls.io/github/bitsnap/eslint-plugin-lodash-magic-import?branch=master) 
 [![dependencies](https://david-dm.org/bitsnap/eslint-plugin-lodash-magic-import.svg)](https://david-dm.org/bitsnap/eslint-plugin-lodash-magic-import)
 [![devDependencies](https://david-dm.org/bitsnap/eslint-plugin-lodash-magic-import/dev-status.svg)](https://david-dm.org/bitsnap/eslint-plugin-lodash-magic-import#info=devDependencies)
-[![Known Vulnerabilities](https://snyk.io/test/github/bitsnap/eslint-plugin-lodash-magic-import/badge.svg)](https://snyk.io/test/github/bitsnap/eslint-plugin-lodash-magic-import)
 
 Eslint plugin for [lodash-magic-import](https://github.com/bitsnap/babel-plugin-lodash-magic-import) 📦.
 Performs simple lodash usage checks, nothing fancy.
