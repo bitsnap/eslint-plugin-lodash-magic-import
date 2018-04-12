@@ -1,5 +1,7 @@
 # eslint lodash-magic-import
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bitsnap/eslint-plugin-lodash-magic-import.svg)](https://greenkeeper.io/)
+
 [![npmjs](https://img.shields.io/npm/v/eslint-plugin-lodash-magic-import.svg)](https://npmjs.org/package/eslint-plugin-lodash-magic-import)
 [![downloads](https://img.shields.io/npm/dw/eslint-plugin-lodash-magic-import.svg)](https://npmjs.org/package/eslint-plugin-lodash-magic-import)
 [![CircleCI](https://img.shields.io/circleci/project/github/bitsnap/eslint-plugin-lodash-magic-import.svg)](https://circleci.com/gh/bitsnap/eslint-plugin-lodash-magic-import)
