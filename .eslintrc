@@ -1,0 +1,22 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "node": true
+  },
+  "plugins": [
+    "lodash-fp",
+    "unicorn"
+  ],
+  "extends": [
+    "airbnb",
+    "plugin:lodash-fp/recommended",
+    "plugin:unicorn/recommended"
+  ],
+  "rules": {
+    "import/extensions": "off",
+    "import/no-unresolved": "off",
+    "import/no-extraneous-dependencies": "off",
+    "unicorn/no-fn-reference-in-iterator": "off",
+    "lodash-fp/no-submodule-destructuring": "off"
+  }
+}
