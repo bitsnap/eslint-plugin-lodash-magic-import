@@ -4,11 +4,13 @@
     "node": true
   },
   "plugins": [
+    "lodash-magic-import",
     "lodash-fp",
     "unicorn"
   ],
   "extends": [
     "airbnb",
+    "plugin:lodash-magic-import/recommended",
     "plugin:lodash-fp/recommended",
     "plugin:unicorn/recommended"
   ],

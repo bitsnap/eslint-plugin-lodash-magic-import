@@ -21,9 +21,9 @@
     "Yuriy Yarosh <void.nugget@gmail.com>"
   ],
   "peerDependencies": {
-    "lodash": "^4.17.5",
+    "babel-eslint": "^8.2.2",
     "eslint": "^4.12.1",
-    "babel-eslint": "^8.2.2"
+    "lodash": "^4.17.5"
   },
   "dependencies": {
     "lodash-magic-cache": "^0.1.1"
@@ -46,6 +46,7 @@
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
     "eslint-plugin-lodash-fp": "^2.1.3",
+    "eslint-plugin-lodash-magic-import": "^0.1.0",
     "eslint-plugin-react": "^7.5.1",
     "eslint-plugin-unicorn": "^4.0.3",
     "nyc": "^11.3.0",
