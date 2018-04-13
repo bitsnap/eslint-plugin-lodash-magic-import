@@ -26,7 +26,7 @@
     "lodash": "^4.17.5"
   },
   "dependencies": {
-    "lodash-magic-cache": "^0.1.1"
+    "lodash-magic-cache": "^0.2.0"
   },
   "license": "MIT",
   "repository": "github:bitsnap/eslint-plugin-lodash-magic-import",
