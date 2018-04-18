@@ -5,8 +5,8 @@
 [![downloads](https://img.shields.io/npm/dw/eslint-plugin-lodash-magic-import.svg)](https://npmjs.org/package/eslint-plugin-lodash-magic-import)
 [![CircleCI](https://img.shields.io/circleci/project/github/bitsnap/eslint-plugin-lodash-magic-import.svg)](https://circleci.com/gh/bitsnap/eslint-plugin-lodash-magic-import)
 [![Coverage Status](https://coveralls.io/repos/github/bitsnap/eslint-plugin-lodash-magic-import/badge.svg?branch=master)](https://coveralls.io/github/bitsnap/eslint-plugin-lodash-magic-import?branch=master) 
-[![dependencies](https://david-dm.org/bitsnap/eslint-plugin-lodash-magic-import.svg)](https://david-dm.org/bitsnap/eslint-plugin-lodash-magic-import)
 [![devDependencies](https://david-dm.org/bitsnap/eslint-plugin-lodash-magic-import/dev-status.svg)](https://david-dm.org/bitsnap/eslint-plugin-lodash-magic-import#info=devDependencies)
+[![Climate](https://img.shields.io/codeclimate/maintainability/bitsnap/eslint-plugin-lodash-magic-import.svg)](https://codeclimate.com/github/bitsnap/eslint-plugin-lodash-magic-import)
 
 Eslint plugin for [lodash-magic-import](https://github.com/bitsnap/babel-plugin-lodash-magic-import) 📦.
 Performs simple lodash usage checks, nothing fancy.
