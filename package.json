@@ -58,7 +58,7 @@
     "sourceMap": false,
     "instrument": false,
     "exclude": [
-      "test/**/*.test.js"
+      "test/**/*.js"
     ]
   }
 }
