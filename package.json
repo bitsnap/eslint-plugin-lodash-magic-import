@@ -7,7 +7,7 @@
   ],
   "dependencies": {
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.8.0",
+    "eslint": "^5.15.1",
     "lodash-magic-cache": "^0.2.1"
   },
   "devDependencies": {
