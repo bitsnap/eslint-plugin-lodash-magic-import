@@ -6,7 +6,7 @@
     "Yuriy Yarosh <void.nugget@gmail.com>"
   ],
   "dependencies": {
-    "babel-eslint": "^10.0.1",
+    "babel-eslint": "^10.0.2",
     "eslint": "^5.8.0",
     "lodash-magic-cache": "^0.2.1"
   },
